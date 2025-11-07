@@ -6,7 +6,7 @@ export const SITE_DASHBOARD: string = 'https://app.greenlinkmarkets.com';
 export const SITE_EMAIL: string = 'support@greenlinkmarkets.com';
 export const SITE_PHONE: string = 'USA';
 export const SITE_TESTIMONIES: string =
-  'https://greenlinkmarkets.com/api/testimonies';
+  'https://app.greenlinkmarkets.com/api/testimonies';
 
 export const LIVE_CHAT = `
   `;
